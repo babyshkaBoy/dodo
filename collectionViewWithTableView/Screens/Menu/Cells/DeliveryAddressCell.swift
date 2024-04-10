@@ -74,6 +74,7 @@ class DeliveryAddressCell: UITableViewCell {
 
 extension DeliveryAddressCell {
     func setupViews() {
+        selectionStyle = .none
         contentView.addSubview(containerView)
         containerView.addSubview(verticalStackView)
         verticalStackView.addArrangedSubview(segmentControl)
