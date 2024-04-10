@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Двойной цыпленок.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

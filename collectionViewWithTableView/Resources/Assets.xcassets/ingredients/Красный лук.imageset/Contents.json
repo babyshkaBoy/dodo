@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Красный лук.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

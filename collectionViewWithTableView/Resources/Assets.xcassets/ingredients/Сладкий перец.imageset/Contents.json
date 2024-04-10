@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Сладкий перец.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
