@@ -68,6 +68,7 @@ class BannerCell: UITableViewCell {
 //MARK: - Layout
 extension BannerCell {
     func setupViews(){
+        selectionStyle = .none
         contentView.addSubview(containerView)
         containerView.addSubview(titleLabel)
         containerView.addSubview(collectionView)
